@@ -1,5 +1,3 @@
-# Loleini Williams, Solicitor (Law Society of England and Wales)
-
 ## Loleini qualified as a solicitor in September 2021. 
 
 She is a graduate of Queen Mary University of London, University of Calgary, and the University of Law (Bloomsbury). 
