@@ -1,39 +1,13 @@
 # Loleini Williams, Solicitor (Law Society of England and Wales)
 
-## Welcome to GitHub Pages
+## Loleini qualified as a solicitor in September 2021. 
 
-You can use the [editor on GitHub](https://github.com/loleiniw/loleiniw.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+She is a graduate of Queen Mary University of London, University of Calgary, and the University of Law (Bloomsbury). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This website is TBD. 
 
-### Markdown
+Loleini is an experienced immigration practitioner who advises across all tiers of the points based system, as well as on family routes, nationality law, and the EU Settlement Scheme. She advises businesses of all sizes on sponsor licences and meeting their sponsor obligations. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/loleiniw/loleiniw.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Memberships:
+- Law Society of England and Wales
+- Immigration Lawyers Practitioners Association
